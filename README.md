@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Installation
 
-git clone https://github.com/abidakram01/angular-movie-app.git
+git clone 
 cd angular-movie-app
 
 npm install
